@@ -1,2 +1,2 @@
 # java
-[Test](https://github.com/tuxinhui/java/blob/master/README.md)
+[Test](https://raw.githubusercontent.com/tuxinhui/java/master/ch11.ppt)
